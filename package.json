@@ -1,18 +1,18 @@
 {
-    "name": "pist",
-    "version": "0.0.1",
-    "description": "Simple scribble to Viz",
-    "main": "pist.js",
-    "dependencies": {
-        "readline": "0.0.3",
-        "udp": ">=1.0.0",
-        "http": "0.0.0",
-        "feedparser": ">=0.16.6",
-        "request": ">=2.34.0",
-        "mongojs": ">=0.10.1"
-    },
-    "author": "IanM",
-    "license": "BSD",
-    "private": true
+  "name": "pist",
+  "version": "0.0.1",
+  "description": "Simple scribble to Viz",
+  "main": "pist.js",
+  "dependencies": {
+    "readline": "0.0.3",
+    "udp": ">=1.0.0",
+    "http": "0.0.0",
+    "feedparser": ">=0.16.6",
+    "request": ">=2.34.0",
+    "mongojs": ">=0.10.1",
+    "async": "~0.2.10"
+  },
+  "author": "IanM",
+  "license": "BSD",
+  "private": true
 }
-
